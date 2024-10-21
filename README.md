@@ -15,7 +15,7 @@ I'm Ray, a passionate Data Engineer with a keen interest in AI and machine learn
 
 - **Languages:** Python, SQL, R
 - **Big Data:** Apache Spark, Hadoop, Hive
-- **Cloud:** AWS (S3, EC2, EMR, Redshift)
+- **Cloud:** GCP (BigQuery, Compute Engine, Dataproc, Cloud Storage)
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **ML/AI:** TensorFlow, PyTorch, scikit-learn
 - **Tools:** Git, Docker, Airflow, Kafka
@@ -28,7 +28,7 @@ I'm Ray, a passionate Data Engineer with a keen interest in AI and machine learn
 ## 🏆 Certifications
 
 - Google Data Analytics Professional Certificate
-- AWS Certified Cloud Practitioner
+- Google Cloud Professional Data Engineer
 - Microsoft Certified: Azure Data Fundamentals
 
 ## 🌟 Featured Projects
@@ -36,7 +36,7 @@ I'm Ray, a passionate Data Engineer with a keen interest in AI and machine learn
 Here are some projects I'm proud of:
 
 1. **AI-Powered Image Recognition System**
-   - Developed using TensorFlow and deployed on AWS
+   - Developed using TensorFlow and deployed on Google Cloud
    - Achieved 95% accuracy in object detection
 
 2. **Real-time Data Processing Pipeline**
